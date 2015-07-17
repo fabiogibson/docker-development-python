@@ -1,4 +1,4 @@
-FROM fgibson/docker-ssh-xvfb-chromium
+FROM fgibson/docker-development-base
 
 MAINTAINER Fabio Gibson <fabiogibson@hotmail.com>
 
